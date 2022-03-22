@@ -1,2 +1,2 @@
-# Project2_Martinez_Lee
-Repository for W200 Spring Project 2 by Tatianna Martinez and Nicholas Lee
+# Project2_mlgh
+Repository for W200 Spring Project 2 by Tatianna Martinez, Nicholas Lee, Che Guan, Judge Hiciano.

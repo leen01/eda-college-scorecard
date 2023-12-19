@@ -411,15 +411,17 @@ are displayed in Figure 11 and summarized as follows:
 - Type of school
 
 <img src="./media/image11.png"
-style="width:2.96354in;height:2.17825in" /><img src="./media/image12.png"
-style="width:2.94958in;height:2.17188in" />
+style="width:2.96354in;height:2.17825in;background-color:white" />
+<img src="./media/image12.png"
+style="width:2.94958in;height:2.17188in;background-color:white" />
 
 Figure 10. Confusion matrices from decision trees (left) and random
 forest (right)
 
 <img src="./media/image13.png"
-style="width:2.41146in;height:3.99474in" /><img src="./media/image14.png"
-style="width:2.48438in;height:3.9249in" />
+style="width:2.41146in;height:3.99474in;background-color:white" />
+<img src="./media/image14.png"
+style="width:2.48438in;height:3.9249in;background-color:white" />
 
 Figure 11. Top 10 selected features from decision trees (left) and
 random forest (right)
